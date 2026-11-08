@@ -8,6 +8,6 @@
 - Басты бетте Алтын адам оқушыларға сәлем береді (дыбыс + субтитр).
 
 
-Дауыс: ISSAI KazakhTTS (Nazarbayev University), Piper `kk-issai-high` моделі арқылы жасалған, лицензия CC BY 4.0.
+Дауыс: FreedomSpeech (freedomspeech.kz), «Таймас» дауысы.
 
 Сурет: [eggry, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Golden_Man_(Issyk_kurgan).jpg), лицензия CC BY-SA 2.0, фоны өңделген.
