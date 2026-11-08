@@ -7,4 +7,7 @@
 - 2–4 команда, текше, 24 ұяшықты алаң, арнайы ұяшықтар (Бонус, Сыйлық, Тәуекел, Супер сұрақ, Қосымша жүріс).
 - Басты бетте Алтын адам оқушыларға сәлем береді (дыбыс + субтитр).
 
+
 Дауыс: ISSAI KazakhTTS (Nazarbayev University), Piper `kk-issai-high` моделі арқылы жасалған, лицензия CC BY 4.0.
+
+Сурет: [eggry, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Golden_Man_(Issyk_kurgan).jpg), лицензия CC BY-SA 2.0, фоны өңделген.
